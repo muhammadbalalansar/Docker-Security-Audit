@@ -58,6 +58,7 @@ docksec scan --fail-on critical                 # exit non-zero for CI pipelines
 
 ## Learn
 
+
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
 | Module | Topic |
