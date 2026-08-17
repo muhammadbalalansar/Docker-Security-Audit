@@ -8,7 +8,6 @@
 ```
 BY MUHAMMAD BALAL ANSAR (Cyber Security Expert)
 
-
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%238-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/intermediate/docker-security-audit)
 [![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
