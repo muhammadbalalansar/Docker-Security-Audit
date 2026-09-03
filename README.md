@@ -55,7 +55,6 @@ docksec scan --severity critical,high           # filter by severity
 docksec scan --fail-on critical                 # exit non-zero for CI pipelines
 ```
 
-
 ## Learn
 
 
