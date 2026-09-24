@@ -21,7 +21,6 @@
 
 ## What It Does
 
-
 - Scans running containers, images, Dockerfiles, and compose files for misconfigurations
 - Checks against CIS Docker Benchmark v1.6.0 with severity scoring
 - Detects privileged containers, dangerous capabilities, socket mounts, and namespace sharing
