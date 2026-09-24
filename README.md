@@ -31,7 +31,7 @@
 - Supports severity filtering and fail-on-critical for CI/CD pipelines
 - Validates AppArmor/seccomp profiles, resource limits, and user namespace remapping
 
-## Quick Start
+## Quick Start:
 
 ```bash
 go install github.com/CarterPerez-dev/docksec/cmd/docksec@latest
