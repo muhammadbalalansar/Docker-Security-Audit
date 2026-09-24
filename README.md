@@ -7,7 +7,7 @@
 ██████╔╝╚██████╔╝╚██████╗██║  ██╗███████║███████╗╚██████╗
 ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 ```
-BY MUHAMMAD BALAL ANSAR (Cyber Security Expert)
+BY MUHAMMAD BALAL ANSAR (Cyber Security Expert)**
 
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%238-red?style=flat&logo=github)](https://github.com/muhammadbalalansar)
 [![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
