@@ -19,7 +19,7 @@
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-## What It Does
+## What It Does:
 
 - Scans running containers, images, Dockerfiles, and compose files for misconfigurations
 - Checks against CIS Docker Benchmark v1.6.0 with severity scoring
