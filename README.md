@@ -25,10 +25,10 @@
 - Checks against CIS Docker Benchmark v1.6.0 with severity scoring
 - Detects privileged containers, dangerous capabilities, socket mounts, and namespace sharing
 - Outputs terminal (colored), JSON, SARIF (GitHub Security tab), and JUnit formats
-- Supports severity filtering and fail-on-critical for CI/CD pipelines
+- Supports severity filtering and fail-on-critical for CI/CD pipelins
 - Validates AppArmor/seccomp profiles, resource limits, and user namespace remapping
 
-## Quick Start:
+## Quick Start
 
 ```bash
 go install github.com/CarterPerez-dev/docksec/cmd/docksec@latest
